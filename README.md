@@ -1,5 +1,5 @@
 # tusk
 Hello,
-My name is testuser
-I am from CityName
+My name is dev2
+I am from bangalore
 I like movies
